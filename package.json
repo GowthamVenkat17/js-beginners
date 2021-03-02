@@ -1,0 +1,14 @@
+{
+  "name": "js-beginners",
+  "version": "1.0.0",
+  "description": "Basics Of JavaScript",
+  "main": "script.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Gowtham Venkat",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "2.5.4"
+  }
+}
